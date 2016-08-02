@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -8,7 +7,7 @@
 /build
 /captures
 .externalNativeBuild
-=======
+
 # Built application files
 *.apk
 *.ap_
@@ -49,4 +48,4 @@ captures/
 
 # Keystore files
 *.jks
->>>>>>> 424ecd37f40da273cef9ffefc751169339397aab
+
