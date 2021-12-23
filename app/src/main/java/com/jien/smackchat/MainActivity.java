@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onDestory(){
 
     }
+
+    private void buttonClick() {
+        
+    }
 }
