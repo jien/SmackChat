@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume(){
         
     }
+
+    protected void onDestory(){
+
+    }
 }
